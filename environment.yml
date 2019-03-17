@@ -1,0 +1,10 @@
+name: optimisation
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - rise
+  - matplotlib
+  - ipywidgets
+  - statsmodels
