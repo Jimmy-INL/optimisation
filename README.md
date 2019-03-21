@@ -1,7 +1,6 @@
-A survey of optimisation methods
-================================
+# A survey of optimisation methods
 
-Materials of the talk given at `PyData Cambridge <https://www.meetup.com/PyData-Cambridge-Meetup/events/259428201/>`_
+Materials of the talk given at [PyData Cambridge](https://www.meetup.com/PyData-Cambridge-Meetup/events/259428201/)
 
 While mathematical optimisation is key in many domains, it is usually seen only as an addendum of other techniques,
 instead of as a discipline of its own. For example, gradient descent methods, will be often studied
