@@ -8,3 +8,5 @@ dependencies:
   - matplotlib
   - ipywidgets
   - statsmodels
+  - ipyvolume
+  - scikit-learn
