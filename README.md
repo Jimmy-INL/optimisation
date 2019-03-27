@@ -21,3 +21,15 @@ During the talk, many examples of optimisation problems will be presented, as we
 Marc Garcia is a senior data scientist at Tesco. He holds a master degree in AI by the Technical University of Catalonia,
 and a master degree in finance from EADA business school. He is a Python fellow, a pandas core developer, a NumFOCUS ambassador,
 and a co-organiser of the London Python sprints group.
+
+## Set up
+
+- Install [Miniconda 3.7](https://docs.conda.io/en/latest/miniconda.html)
+- Open an Anaconda/UNIX terminal
+- `git clone https://github.com/datapythonista/optimisation.git`
+- `cd optimisation`
+- `conda env create`
+- `source activate optimisation` (in Windows: `conda activate optimisation`)
+- `jupyter notebook`
+- Open `Optimisation.ipynb` notebook
+- Click the icon with the bar plot to show as slides with [RISE](https://damianavila.github.io/RISE/)
