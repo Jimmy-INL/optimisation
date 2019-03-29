@@ -33,3 +33,8 @@ and a co-organiser of the London Python sprints group.
 - `jupyter notebook`
 - Open `Optimisation.ipynb` notebook
 - Click the icon with the bar plot to show as slides with [RISE](https://damianavila.github.io/RISE/)
+
+## Run online
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datapythonista/optimisation.git/master)
+ 
+ Make sure to restart the Kernel an run all the cells to get the interactive graphs.
